@@ -1,0 +1,85 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #a9b995;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/*header*/
+#header-nav {
+  background-color: #809b7e;
+  border-radius: 0;
+  border: 0;
+}
+
+/*header*/
+.navbar-brand {
+  padding-top: 25px;
+}
+
+/*name of nav-bar*/
+.navbar-brand h1 { 
+  font-family: 'Oxygen', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  align-content: center;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .100;
+}
+
+/*distance from nav-bar to items in the drop down menu*/
+#nav-list {
+  margin-top: 15px;
+}
+#nav-list a {
+  color: black;
+  font-weight: 1000;
+  text-align: center;
+}
+
+#nav-list a span {
+  font-size: 2em;
+}
+
+/*button*/
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+
+/*adjustments for heading our menu*/
+h1
+{
+  text-align: center;
+  font-size: 50px;
+}
+/*box specification*/
+#back
+{
+  background-color: grey;
+  border: 1px solid black;
+  padding: 30px;
+  margin: 20px;
+  text-align: justify;
+  font-weight: bold;
+}
+
+/*topics of boxes*/
+#topic
+{
+  text-align: center;
+  position: relative;
+  top:50px;
+  right: 20px;
+  text-align: center;
+  font-weight: 1000;
+}
+
+
